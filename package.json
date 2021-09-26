@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-sessions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codioplus/nodejs-sessions.git"
+  },
+  "author": "codioplus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codioplus/nodejs-sessions/issues"
+  },
+  "homepage": "https://github.com/codioplus/nodejs-sessions#readme"
+}
